@@ -11,3 +11,4 @@ Sou Jai, arquiteto de soluções digitais operando na intersecção entre market
 </div>
 
 ---
+![Jaivamtech GitHub stats](https://github-readme-stats.vercel.app/api?username=jaivamtech&show_icons=true)
